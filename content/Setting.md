@@ -1,6 +1,6 @@
 ---
 title: Setting
-draft: false
+draft: true
 tags:
 ---
 
